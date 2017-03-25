@@ -1,0 +1,19 @@
+{
+  "name": "reactrouterexample",
+  "version": "1.0.0",
+  "description": "V4 router example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ye99/ace.git"
+  },
+  "author": "Ye Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ye99/ace/issues"
+  },
+  "homepage": "https://github.com/Ye99/ace#readme"
+}
